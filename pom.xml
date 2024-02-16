@@ -14,7 +14,7 @@
   </parent>
   <name>petclinic</name>
 
-<!--added scm config-->
+<!--added scm config to pom-->
   <scm>
     <connection>scm:git:git@github.com:hvylvv/spring-petclinic.git</connection>
     <developerConnection>scm:git:git@github.com:hvylvv/spring-petclinic.git</developerConnection>

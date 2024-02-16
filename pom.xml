@@ -14,13 +14,12 @@
   </parent>
   <name>petclinic</name>
 
+<!--added scm config-->
   <scm>
     <connection>scm:git:git@github.com:hvylvv/spring-petclinic.git</connection>
     <developerConnection>scm:git:git@github.com:hvylvv/spring-petclinic.git</developerConnection>
     <url>https://github.com/hvylvv/spring-petclinic.git</url>
   </scm>
-
-
 
   <properties>
 

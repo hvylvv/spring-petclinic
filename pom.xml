@@ -20,6 +20,8 @@
     <url>https://github.com/hvylvv/spring-petclinic.git</url>
   </scm>
 
+
+
   <properties>
 
     <!-- Generic properties -->
